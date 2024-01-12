@@ -5,4 +5,6 @@ This program was created for my lovely girlfriend and is dedicated to her!
 
 Have fun with it!
 
-Palia is a free game for the Nintendo Switch and is comparable to Animal Crossing: https://www.nintendo.com/us/store/products/palia-switch/
+Palia is a free game for the Nintendo Switch and Windows. It is comparable to Animal Crossing (don´t hate me for this Comparison)
+Nintendo: https://www.nintendo.com/us/store/products/palia-switch/
+Steam: https://store.steampowered.com/app/2707930/Palia/
