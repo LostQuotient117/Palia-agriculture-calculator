@@ -8,3 +8,5 @@ Have fun with it!
 Palia is a free game for the Nintendo Switch and Windows. It is comparable to Animal Crossing (don´t hate me for this Comparison)
 Nintendo: https://www.nintendo.com/us/store/products/palia-switch/
 Steam: https://store.steampowered.com/app/2707930/Palia/
+
+If you want me to change something in the repository settings or if you have any tips, please open a discussion! :D
