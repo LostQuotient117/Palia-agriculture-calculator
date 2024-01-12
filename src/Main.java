@@ -3,12 +3,12 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
 
-        final String descriptionProduct = "Wie ist die Beschreibung des Produkts?";
-        final String howmuchFields = "Wie viele Felder des Produkts stehen zur Verfügung?";
-        final String productionofFields = "Wie hoch ist die Produktion pro Feld?";
-        final String sellingPriceperField = "Wie hoch ist der Verkaufspreis pro Produkt?";
-        final String seedsperProduct = "Wie viele Samen werden pro Produkt hergestellt?";
-        final String howmuchTimeperMinuteSeeds = "Wie viel Zeit in Minuten benötigt die Produktion der Samen";
+        final String descriptionProduct = "What is the description of the product?";
+        final String howmuchFields = "How many fields should be populated with the product?";
+        final String productionofFields = "How high is the production per field?";
+        final String sellingPriceperField = "What is the selling price per product?";
+        final String seedsperProduct = "How many seeds are produced per product in the seed machine?";
+        final String howmuchTimeperMinuteSeeds = "How much time in minutes does it take to produce the seeds?";
 
         Scanner myObj = new Scanner(System.in);
         System.out.println(descriptionProduct);
