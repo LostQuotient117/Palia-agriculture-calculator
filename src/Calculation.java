@@ -9,9 +9,9 @@ public class Calculation {
     public void output(String description, int one, int two, int three, int four){
 
         final String resultProductionYield = "Production yield of the fields: ";
-        final String resultMinus = "minus the products required for seed production: ";
-        final String resultProfitallFields = "monetary profit from all fields: ";
-        final String resultProfitPerMinute = "monetary profit per minute: ";
+        final String resultMinus = "Minus the products required for seed production: ";
+        final String resultProfitallFields = "Monetary profit from all fields: ";
+        final String resultProfitPerMinute = "Monetary profit per minute: ";
 
 
         System.out.println(description);
