@@ -11,4 +11,4 @@ Steam: https://store.steampowered.com/app/2707930/Palia/
 
 If you want me to change something in the repository settings or if you have any tips, please open a discussion! :D
 
-The changelogs can be found in the discussions
+The changelogs can be found in the discussions.
