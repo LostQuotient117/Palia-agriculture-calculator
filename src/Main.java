@@ -13,7 +13,7 @@ public class Main {
         int pricePerProduct = myObj.nextInt();
         System.out.println("Wie viele Samen werden pro Produkt hergestellt?");
         int seedPerProduct = myObj.nextInt();
-        System.out.println("Wie viel Zeit in Minuten benötigt die Produktion der Samen");
+        System.out.println("Wie viel Zeit in Minuten benötigt die Produktion der Samen?");
         int seedTime = myObj.nextInt();
         Calculation calculation = new Calculation();
         calculation.calculation(description, fields, productionPerField, pricePerProduct, seedPerProduct, seedTime);
