@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Palia:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Palia_jar</output-path>
+    <root id="archive" name="Palia.jar">
+      <element id="module-output" name="Palia" />
+    </root>
+  </artifact>
+</component>
